@@ -32,16 +32,16 @@
       ],
       "changelog": "Alight",
       "requirements": "Khan",
-      "downloadUrl": "https://i.ibb.co/1fZVVLjX/images-11.jpg\"",
-      "downloadLink": "https://i.ibb.co/1fZVVLjX/images-11.jpg\"",
+      "downloadUrl": "",
+      "downloadLink": "",
       "copyText": "#FF#fmJ5enxpcG1ncHR9cnl0YnF8dWtiZX5id H98aXV7b3VwaXJvcHRwe2JqZGV/dHF3",
       "externalUrl": "https://i.ibb.co/1fZVVLjX/images-11.jpg\"",
       "published": true,
       "showCopy": true,
-      "showDownload": true,
+      "showDownload": false,
       "id": "post-1793378636928",
       "createdAt": "2026-10-30T16:43:56.928Z",
-      "updatedAt": "2026-10-30T16:43:56.928Z"
+      "updatedAt": "2026-10-30T16:46:47.920Z"
     }
   ]
 }
