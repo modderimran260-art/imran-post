@@ -1,9 +1,9 @@
 {
   "posts": [
     {
-      "title": "capcut",
-      "appName": "capcut",
-      "name": "capcut",
+      "title": "Snaptube",
+      "appName": "Snaptube",
+      "name": "Snaptube",
       "category": "APK",
       "type": "APK",
       "version": "10",
@@ -18,11 +18,9 @@
       "coverImage": "https://i.ibb.co.com/PZ0sT7mR/1792765486-snaptube-mod-apk-1.jpg",
       "coverUrl": "https://i.ibb.co.com/PZ0sT7mR/1792765486-snaptube-mod-apk-1.jpg",
       "cover": "https://i.ibb.co.com/PZ0sT7mR/1792765486-snaptube-mod-apk-1.jpg",
-      "detailsImage": "https://i.ibb.co/1fZVVLjX/images-11.jpg\"",
-      "detailsImageUrl": "https://i.ibb.co/1fZVVLjX/images-11.jpg\"",
-      "screenshots": [
-        "https://i.ibb.co/1fZVVLjX/images-11.jpg\""
-      ],
+      "detailsImage": "",
+      "detailsImageUrl": "",
+      "screenshots": [],
       "shortDescription": "capcut",
       "description": "Html",
       "details": "Html",
@@ -41,7 +39,7 @@
       "showDownload": true,
       "id": "post-1793378636928",
       "createdAt": "2026-10-30T16:43:56.928Z",
-      "updatedAt": "2026-11-04T09:12:48.709Z"
+      "updatedAt": "2026-11-04T09:14:26.102Z"
     }
   ]
 }
